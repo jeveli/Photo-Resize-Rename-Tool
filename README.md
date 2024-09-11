@@ -12,7 +12,7 @@
 
 ## How to Use
 
-1. **Open the Program**: Download and run the executable (`photo_resize.exe`).
+1. **Open the Program**: Download and run the (`Install Resize & Rename Tool.exe`).
 2. **Import Photos**: Click the **Import Images** button to select the photos you want to resize or rename.
 3. **Resize Photos**:
    - Choose whether to resize by scale or by custom size.
